@@ -3,7 +3,7 @@
 
 
 
-## there are still some bugs:
+## There are Still Bugs:
   some bugs are still on the program,
   soon they will be fixed.
 
